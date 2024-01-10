@@ -1,3 +1,5 @@
 a = x+y+z
 
 b= x-y
+
+c = x/y
