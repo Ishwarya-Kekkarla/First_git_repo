@@ -1,8 +1,5 @@
-a = x+y
+a = x+y+z
 
 b= x-y
 
 c = x/y
-
-d = x*y
-
